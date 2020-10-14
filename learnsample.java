@@ -8,10 +8,5 @@ System.out.println("New one");
 System.out.println("New world");
 System.out.println("New world1");
 System.out.println("New world max");
-  System.out.println("New world max");
-
-  System.out.println("New world max");
-System.out.println("New world max");
-
 }
 }
